@@ -1,0 +1,2 @@
+# *を先頭に着けることで再帰的に全てのフォルダのnode_moduleをのぞける
+*node_modules/
